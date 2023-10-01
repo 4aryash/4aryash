@@ -25,8 +25,10 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    border: 1px solid #ccc;
+    border: 2px solid #BF91F3; /* Border color set to BF91F3 */
     padding: 20px;
+    max-width: 600px; /* Set a maximum width for the container */
+    margin: 0 auto; /* Center the container horizontally */
   }
 </style>
 </head>
