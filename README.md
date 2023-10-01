@@ -1,4 +1,4 @@
-![banner](https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif)
+<img align="right" alt="GIF" src="(https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif)"  />
 
 ### Hi there 👋 I'm Aaryash (Aaaaary-ashh)
 
