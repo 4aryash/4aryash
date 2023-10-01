@@ -5,15 +5,10 @@
 ### Hola!👋 Glad to see you here. I'm Aaryash (Aaaaary-ashh)
 
 - 😄 Pronouns: He/Him/His
-<br>
 - 🌱 I’m currently exploring Digital Forensics, Incident Response, and Malware Analysis
-<br>
 - 👯 I’m looking to collaborate on projects related Raspberry Pi's to build automation tools
-<br>
-- 🔭 I’m currently looking for Full-time positions in the Infosec industry, and also working on my portfolio website.
-<br>
-- 📫 How to reach me: I'd love to chat with you on [Linkedin](https://www.linkedin.com/in/aaryash/) !
-<br>
+- 🔭 I’m currently working on my portfolio website
+- 📫 I'd love to chat with you on [Linkedin](https://www.linkedin.com/in/aaryash/)
 - ⚡ Fun fact: I actively play chess! If you wanna play a game of chess with me, send me a request on [Chess.com](https://www.chess.com/member/aaryash1299)
 <br><br>
 <p align="center">
