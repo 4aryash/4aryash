@@ -12,5 +12,5 @@
 - ⚡ Fun fact: I actively play chess! If you wanna play a game of chess with me, send me a request on [Chess.com](https://www.chess.com/member/aaryash1299)
 <br>
 <p align="center">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=4aryash&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=4aryash&theme=flag-india&hide_border=true&background=FFFFFF00">
 </p>
