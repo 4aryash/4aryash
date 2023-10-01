@@ -1,3 +1,5 @@
+![banner](https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif)
+
 ### Hi there 👋
 
 - 🔭 I’m currently looking for Full-time positions in the Infosec industry, and also working on my portfolio website which you can find [here]([url](https://aaryash.webflow.io/)) 
