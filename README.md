@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif"/> </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
+<img align="right" alt="GIF" src="https://imgur.com/g17ZDlV"/>
 
 ### Hi there 👋 I'm Aaryash (Aaaaary-ashh)
 
