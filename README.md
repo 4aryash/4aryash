@@ -3,7 +3,7 @@
 <br>
 
 ### Hi there 👋 I'm Aaryash (Aaaaary-ashh)
-<br>
+
 - 🌱 I’m currently learning Digital Forensics, Incident Response, and Malware Analysis.
 - 👯 I’m looking to collaborate on projects related Raspberry Pi's to build automation tools
 - 🔭 I’m currently looking for Full-time positions in the Infosec industry, and also working on my portfolio website.
