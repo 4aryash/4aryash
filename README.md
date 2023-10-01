@@ -1,7 +1,5 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif"/> </p>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/X_Yo4A3iOyMAAAAC/hacking.gif"/>
-
 ### Hi there 👋 I'm Aaryash (Aaaaary-ashh)
 
 - 🌱 I’m currently learning Digital Forensics, Incident Response, and Malware Analysis.
@@ -17,7 +15,5 @@
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=4aryash&theme=darcula&hide_border=true&background=FFFFFF00">
   
-  </p>
+</p>
   <br><br>
-
-<br><br><br>
