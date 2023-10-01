@@ -1,5 +1,6 @@
+<br>
 <p align="center"> <img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif"/> </p>
-
+<br>
 ### Hi there 👋 I'm Aaryash (Aaaaary-ashh)
 
 - 🌱 I’m currently learning Digital Forensics, Incident Response, and Malware Analysis.
