@@ -1,7 +1,4 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif"/> </p>
-<br>
-
-<br><br><br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
@@ -14,8 +11,6 @@
 - 📫 How to reach me: I'd love to chat with you on [Linkedin](https://www.linkedin.com/in/aaryash/) !
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I actively play chess! If you wanna play a game of chess with me, send me a request on [Chess.com](https://www.chess.com/member/aaryash1299)
-<br><br><br>
-
 <br><br><br>
 
 <p align="center">
