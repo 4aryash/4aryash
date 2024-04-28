@@ -1,6 +1,5 @@
 <div align="center" style="border: 2px solid #BF91F3; padding: 20px; max-width: 600px; margin: 0 auto;">
-  <p> <s>“The quieter you become, the more you are able to hear.”</s><br>
-  “The more you weigh, the harder you are to kidnap.” </p>
+
   <img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif" /> </br></br>
   
   <!--=================================== MY STATS ===================================-->
@@ -13,4 +12,7 @@
 </div>
   <br/><br/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=4aryash&color=F6882B" alt="4aryash" /> </p>
+
+  <p> <s>“The quieter you become, the more you are able to hear.”</s><br>
+  “The more you weigh, the harder you are to kidnap.” </p>
 </div>
