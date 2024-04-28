@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif" />
   
   <!--=================================== MY STATS ===================================-->
-<h2>  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" > &nbsp; </h2>
 <div align="center">
 <a href="https://github.com/4aryash">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4aryash&theme=onedark" height="180em" /> <br/><br/>
