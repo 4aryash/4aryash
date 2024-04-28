@@ -1,5 +1,5 @@
-<p style="text-align: center;"> <s>“The quieter you become, the more you are able to hear.”</s><br>
-  “The more you weigh, the harder you are to kidnap.” </p>
+<h3 style="text-align: center;"> <s>“The quieter you become, the more you are able to hear.”</s><br>
+  “The more you weigh, the harder you are to kidnap.” </h3>
   
   <div align="center" style="border: 2px solid #BF91F3; padding: 20px; max-width: 600px; margin: 0 auto;">
   <img src="https://i.pinimg.com/originals/a4/b2/cf/a4b2cf52d8ed2e49e10c7eecca6777a3.gif" /> </br></br>
