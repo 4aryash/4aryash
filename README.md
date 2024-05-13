@@ -6,11 +6,11 @@
   <!--=================================== MY STATS ===================================-->
 <div align="center">
 <a href="https://github.com/4aryash">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4aryash&theme=onedark" height="180em" /> <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=4aryash&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250" height="180em" /> <br/><br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4aryash&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aryash&langs_count=8&theme=onedark" alt=4aryash /> <br/><br/>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=4aryash&theme=one-dark" alt="4aryash Activities"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryash&theme=onedark" height="180em" /> <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryash&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250" height="180em" /> <br/><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryash&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aryash&langs_count=8&theme=onedark" alt=4aryash /> <br/><br/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryash&theme=one-dark" alt="4aryash Activities"/>
 </div>
   <br/><br/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=4aryash&color=F6882B" alt="4aryash" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryash&color=F6882B" alt="4aryash" /> </p>
 </div>
