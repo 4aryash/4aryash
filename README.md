@@ -13,6 +13,6 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=4aryash&theme=one-dark" alt="4aryash Activities"/>
 -->
 </div>
-  <br/><br/>
+  <br/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=4aryash&color=F6882C" alt="4aryash" /> </p>
 </div>
